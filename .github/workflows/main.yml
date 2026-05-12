@@ -1,4 +1,4 @@
-name: Node.js CI Flow
+name: Shivam github workflow  Assignment
 
 on:
   push:
